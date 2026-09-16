@@ -1,0 +1,8 @@
+evidence_id,intervention,outcome,estimate,lower_bound,upper_bound,quality
+E001,Community counselling,Uptake,1.18,1.07,1.31,High
+E002,Peer educators,Uptake,1.24,1.08,1.43,Moderate
+E003,Digital follow-up,Continuation,1.11,0.97,1.28,Moderate
+E004,Hybrid training,Performance,0.96,0.84,1.09,Low
+E005,Postpartum FP,Uptake,1.27,1.12,1.45,High
+E006,Stockout reduction,Service uptake,1.14,1.03,1.27,Moderate
+E007,Online training,Performance,0.86,0.73,1.01,Low

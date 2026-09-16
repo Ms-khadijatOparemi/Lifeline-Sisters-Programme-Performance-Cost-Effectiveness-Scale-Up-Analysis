@@ -1,0 +1,7 @@
+assumption_id,assumption,base,low,high,confidence
+1,Pregnancy-averted conversion,0.38,0.28,0.48,Medium
+2,Programme attribution,0.7,0.5,0.85,Medium
+3,Hybrid performance,0.96,0.85,1.05,Low
+4,3-month continuation,0.72,0.55,0.85,Medium
+5,Expansion productivity,0.9,0.7,1.05,Low
+6,Cost inflation,0.08,0,0.2,Medium

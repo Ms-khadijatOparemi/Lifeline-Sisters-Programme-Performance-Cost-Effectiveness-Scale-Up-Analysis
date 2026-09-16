@@ -1,0 +1,301 @@
+training_id,sister_id,training_type,training_date,training_cost,training_days,topics,pre_training_score,post_training_score,assessment_score,trainer_rating,months_since_training
+1,LS0138,Hybrid,2024-11-23,32000,5,Community Engagement,49,79,76,3,13
+2,LS0189,In-person,2025-02-28,51500,7,Data Reporting,55,56,51,3,10
+3,LS0129,In-person,2025-03-10,43500,7,Data Reporting,50,50,52,2,10
+4,LS0118,In-person,2025-11-22,54500,3,Contraceptive Methods,72,87,83,5,1
+5,LS0110,Hybrid,2024-04-19,34500,3,Counselling,64,69,74,3,18
+6,LS0022,Online,2025-03-01,9000,1,Contraceptive Methods,48,60,60,2,10
+7,LS0156,Hybrid,2024-10-08,33500,2,Counselling,67,73,77,4,15
+8,LS0165,Hybrid ,2024-02-28,36500,2,Contraceptive Methods,59,59,60,3,18
+9,LS0043,Hybrid,2024-04-08,35000,5,Referral Pathways,90,100,100,5,18
+10,LS0099,In person,2025-04-05,47000,7,Community Engagement,59,72,83,4,9
+11,LS0111,Online,2024-06-05,16000,3,Contraceptive Methods,51,57,63,2,18
+12,LS0241,In-person,2024-06-03,42000,3,Counselling,55,72,64,3,18
+13,LS0198,Hybrid,2024-08-08,27500,4,Data Reporting,55,59,60,2,17
+14,LS0243,Hybrid,2024-05-10,35500,2,Contraceptive Methods,69,71,71,3,18
+15,LS0136,Hybrid,2025-08-26,25000,3,Contraceptive Methods,68,88,85,4,4
+16,LS0014,In-person,2024-08-28,48500,4,Counselling,78,94,94,5,16
+17,LS0032,Online,2024-09-10,10000,3,Community Engagement,54,59,58,3,16
+18,LS0116,In-person,2025-02-10,46000,3,Referral Pathways,83,100,97,5,11
+19,LS0067,Hybrid,2025-12-02,35500,3,Counselling,75,87,81,4,1
+20,LS0169,In-person,2025-10-24,47500,6,Data Reporting,51,60,54,3,2
+21,LS0181,Online,2025-11-23,11500,2,Contraceptive Methods,65,79,74,3,1
+22,LS0196,In-person,2025-10-10,59500,5,Counselling,80,76,81,4,3
+23,LS0209,Online,2024-04-11,9500,2,Data Reporting,50,62,63,3,18
+24,LS0054,Online,2025-04-08,17000,1,Community Engagement,57,59,66,3,9
+25,LS0240,online,2024-06-30,9000,1,Community Engagement,58,69,71,2,18
+26,LS0146,Hybrid ,2025-11-10,38500,4,Community Engagement,64,100,96,4,2
+27,LS0213,Online,2025-10-19,13500,3,Referral Pathways,69,86,83,3,2
+28,LS0234,In-person,2025-06-29,52500,3,Community Engagement,69,64,67,3,6
+29,LS0148,In-person,2024-08-20,42500,4,Counselling,62,54,69,2,16
+30,LS0082,Online,2025-06-12,11500,3,Counselling,67,79,79,4,7
+31,LS0070,Online,2024-11-21,12000,3,Counselling,64,75,68,3,13
+32,LS0143,Hybrid,2025-01-20,34000,5,Community Engagement,67,88,89,4,11
+33,LS0182,In-person,2025-07-02,49500,3,Community Engagement,71,83,79,4,6
+34,LS0156,Hybrid ,2024-09-22,28500,5,Referral Pathways,67,80,78,4,15
+35,LS0164,In-person,2024-08-19,55000,4,Referral Pathways,78,97,90,5,16
+36,LS0139,Online,2025-02-19,17000,3,Community Engagement,68,86,81,4,10
+37,LS0113,Hybrid,2025-09-23,35000,2,Community Engagement,71,93,92,5,3
+38,LS0089,in-person,2025-03-26,44500,3,Counselling,54,62,70,3,9
+39,LS0091,Hybrid,2024-05-10,39000,2,Community Engagement,66,79,82,4,18
+40,LS0073,In-person,2025-12-05,59000,7,Community Engagement,65,77,80,4,1
+41,LS0107,In-person,2025-02-10,55500,6,Referral Pathways,60,73,76,3,11
+42,LS0086,Online,2025-03-10,14500,1,Data Reporting,64,70,77,3,10
+43,LS0163,Hybrid,2024-12-29,36000,4,Community Engagement,75,81,80,4,12
+44,LS0203,in-person,2025-04-27,42500,4,Counselling,84,95,92,5,8
+45,LS0231,Hybrid ,2024-07-24,34000,5,Referral Pathways,49,65,56,2,17
+46,LS0073,Hybrid,2024-02-07,33000,4,Data Reporting,71,100,100,5,18
+47,LS0155,In-Person,2024-10-26,40500,3,Contraceptive Methods,78,95,90,4,14
+48,LS0190,In-person,2024-04-07,55500,5,Contraceptive Methods,49,68,70,3,18
+49,LS0144,In-person,2024-07-16,43000,7,Counselling,62,80,74,4,18
+50,LS0071,Online,2025-10-04,9000,1,Community Engagement,49,56,59,1,3
+51,LS0005,Hybrid,2025-03-03,39000,4,Counselling,80,91,92,4,10
+52,LS0023,In person,2024-03-21,52500,7,Contraceptive Methods,75,75,73,4,18
+53,LS0106,hybrid,2025-05-04,27500,3,Data Reporting,65,71,71,3,8
+54,LS0241,ONLINE,2024-08-19,9500,3,Community Engagement,80,86,88,4,16
+55,LS0038,Online,2024-08-05,14500,2,Data Reporting,73,80,89,3,17
+56,LS0247,Online,2025-10-16,10000,3,Data Reporting,69,74,82,3,2
+57,LS0027,In-person,2024-12-20,47500,4,Data Reporting,56,74,69,3,12
+58,LS0092,Online,2024-01-02,8500,1,Community Engagement,76,91,90,3,18
+59,LS0073,HYBRID,2024-08-25,36000,4,Data Reporting,68,83,83,4,16
+60,LS0149,Hybrid,2025-06-25,39000,2,Counselling,62,69,71,3,6
+61,LS0169,In-person,2024-07-17,48000,3,Referral Pathways,72,94,90,5,17
+62,LS0082,Online,2024-09-24,14000,1,Counselling,61,77,69,3,15
+63,LS0064,In-person,2024-06-18,46000,4,Counselling,73,90,91,4,18
+64,LS0117,Online,2024-10-05,8000,3,Community Engagement,78,91,85,4,15
+65,LS0078,Online,2025-05-31,16000,1,Counselling,68,74,83,3,7
+66,LS0227,Hybrid,2024-09-13,28000,3,Community Engagement,56,71,67,3,16
+67,LS0106,Hybrid,2024-08-21,28000,3,Contraceptive Methods,51,89,87,3,16
+68,LS0197,Hybrid,2025-01-25,28000,5,Referral Pathways,54,64,67,3,11
+69,LS0014,Hybrid,2025-12-12,30500,5,Community Engagement,57,68,78,2,1
+70,LS0197,In-person,2025-12-09,58000,7,Community Engagement,71,68,71,4,1
+71,LS0100,Hybrid,2025-06-01,39000,4,Counselling,59,67,66,3,7
+72,LS0166,In-person,2025-09-26,43500,4,Data Reporting,60,73,74,3,3
+73,LS0026,Online,2025-05-28,14000,1,Data Reporting,83,88,91,4,7
+74,LS0096,In-person,2025-11-21,47000,4,Referral Pathways,62,79,77,4,1
+75,LS0231,Online,2024-04-30,11500,3,Community Engagement,65,69,67,2,18
+76,LS0062,In-person,2024-04-11,41000,6,Community Engagement,81,82,85,4,18
+77,LS0037,online,2025-07-22,10000,2,Contraceptive Methods,52,61,61,3,5
+78,LS0215,Online,2024-10-04,10000,3,Data Reporting,76,82,80,3,15
+79,LS0223,Hybrid,2024-05-20,34500,2,Referral Pathways,60,72,77,3,18
+80,LS0059,Hybrid,2025-11-19,31000,4,Community Engagement,67,82,82,3,1
+81,LS0028,HYBRID,2025-11-18,26000,2,Referral Pathways,64,87,81,4,1
+82,LS0042,In-person,2024-07-09,40500,3,Data Reporting,64,84,85,4,18
+83,LS0189,In-person,2025-01-17,48000,6,Referral Pathways,70,84,80,4,11
+84,LS0219,Hybrid,2024-05-21,36000,4,Contraceptive Methods,65,72,79,3,18
+85,LS0072,Hybrid,2024-05-22,38500,5,Referral Pathways,48,55,60,2,18
+86,LS0244,In-person,2025-11-30,45000,3,Data Reporting,71,72,76,4,1
+87,LS0206,Online,2025-03-08,11000,2,Contraceptive Methods,75,84,90,4,10
+88,LS0198,Online,2024-03-13,11500,3,Counselling,59,75,68,2,18
+89,LS0025,Hybrid,2024-11-27,26500,2,Counselling,59,73,74,3,13
+90,LS0117,In-Person,2025-07-25,42000,4,Referral Pathways,57,59,53,2,5
+91,LS0159,Online,2025-09-30,14000,3,Contraceptive Methods,59,75,77,3,3
+92,LS0222,ONLINE,2025-03-30,11500,3,Community Engagement,65,75,72,4,9
+93,LS0174,In-person,2024-03-25,55000,7,Data Reporting,74,85,84,4,18
+94,LS0229,Hybrid,2024-02-13,25000,2,Referral Pathways,80,95,87,5,18
+95,LS0039,In-person,2024-07-17,45500,6,Referral Pathways,66,87,91,4,17
+96,LS0056,Online,2025-12-21,17500,1,Referral Pathways,72,86,80,4,0
+97,LS0068,In-person,2024-10-07,46000,3,Data Reporting,48,59,55,3,15
+98,LS0081,In person,2025-02-26,42000,4,Counselling,73,91,86,4,10
+99,LS0194,In-person,2024-10-16,42000,7,Counselling,57,72,65,3,14
+100,LS0125,In-person,2025-10-29,54500,3,Data Reporting,63,84,78,4,2
+101,LS0205,Hybrid,2025-11-05,39000,3,Community Engagement,53,63,66,3,2
+102,LS0186,In-Person,2024-07-28,47000,7,Contraceptive Methods,67,83,83,4,17
+103,LS0056,Online,2025-09-05,10500,2,Referral Pathways,59,67,66,3,4
+104,LS0124,ONLINE,2024-11-26,9000,3,Data Reporting,63,82,72,3,13
+105,LS0086,Hybrid,2024-08-05,34000,2,Counselling,83,100,100,5,17
+106,LS0150,In-person,2024-10-01,54500,6,Counselling,64,82,73,4,15
+107,LS0219,In-person,2024-06-14,60000,6,Data Reporting,70,92,86,4,18
+108,LS0232,In-person,2024-03-31,49000,7,Contraceptive Methods,46,50,50,2,18
+109,LS0027,Online,2024-02-22,9000,2,Data Reporting,64,73,81,3,18
+110,LS0209,Hybrid,2024-01-13,32000,4,Counselling,65,68,78,3,18
+111,LS0135,In-person,2024-10-06,49500,6,Counselling,40,50,50,1,15
+112,LS0140,In-person,2025-06-05,57000,6,Referral Pathways,65,67,62,4,7
+113,LS0019,Hybrid,2025-01-21,31000,2,Contraceptive Methods,61,76,71,3,11
+114,LS0104,In-person,2024-07-26,57000,7,Community Engagement,62,52,57,3,17
+115,LS0056,Hybrid,2024-08-05,36500,4,Contraceptive Methods,65,77,74,3,17
+116,LS0143,Online,2024-01-04,12500,2,Referral Pathways,66,71,82,3,18
+117,LS0017,On-line,2024-01-06,13500,1,Referral Pathways,68,75,81,3,18
+118,LS0089,Hybrid,2024-05-23,27000,4,Referral Pathways,64,77,79,4,18
+119,LS0184,Hybrid,2025-03-17,40000,2,Counselling,60,91,95,4,9
+120,LS0010,Online,2025-11-19,15000,2,Data Reporting,52,60,63,2,1
+121,LS0065,On-line,2024-06-16,14500,2,Data Reporting,88,99,95,4,18
+122,LS0124,Online,2024-02-27,11000,3,Data Reporting,43,50,51,2,18
+123,LS0238,In-person,2024-10-19,45500,6,Referral Pathways,75,64,74,4,14
+124,LS0054,In-person,2025-03-18,58500,7,Referral Pathways,82,100,100,5,9
+125,LS0064,In-person,2025-03-22,43000,5,Referral Pathways,60,72,76,4,9
+126,LS0196,Hybrid,2024-04-25,26500,5,Community Engagement,56,88,89,4,18
+127,LS0155,HYBRID,2024-04-23,32000,3,Data Reporting,68,96,92,5,18
+128,LS0079,Hybrid,2025-03-28,37500,4,Counselling,79,84,92,4,9
+129,LS0051,In-person,2024-11-25,59500,5,Community Engagement,72,86,91,4,13
+130,LS0044,In-person,2024-06-16,52000,5,Data Reporting,74,94,87,5,18
+131,LS0089,hybrid,2025-11-05,28000,2,Community Engagement,62,66,70,4,2
+132,LS0063,In person,2025-06-22,57500,5,Counselling,75,72,72,3,6
+133,LS0047,In-person,2025-01-29,51500,6,Data Reporting,73,67,65,3,11
+134,LS0061,Hybrid,2024-08-05,39500,5,Community Engagement,68,100,100,5,17
+135,LS0135,online,2025-10-12,11500,3,Contraceptive Methods,69,86,82,3,3
+136,LS0140,Hybrid,2025-08-11,29500,5,Counselling,54,82,77,3,5
+137,LS0198,In-person,2025-06-04,57000,3,Counselling,60,75,73,3,7
+138,LS0079,In-person,2025-02-12,43500,6,Counselling,62,74,75,4,11
+139,LS0149,Hybrid,2025-12-21,36000,4,Data Reporting,70,79,79,3,0
+140,LS0044,Hybrid,2024-07-27,26000,2,Contraceptive Methods,81,94,97,5,17
+141,LS0131,Hybrid,2025-05-29,32000,4,Counselling,46,55,61,2,7
+142,LS0169,Hybrid,2024-12-10,33000,4,Data Reporting,54,59,62,2,13
+143,LS0183,Online,2024-11-13,11500,2,Referral Pathways,58,69,66,3,14
+144,LS0198,Online,2024-08-20,14000,1,Referral Pathways,62,66,65,3,16
+145,LS0075,Hybrid,2024-12-19,38000,2,Contraceptive Methods,77,89,92,4,12
+146,LS0025,Hybrid,2025-11-11,35000,2,Contraceptive Methods,60,77,74,3,2
+147,LS0099,Hybrid,2025-08-25,25000,5,Counselling,57,82,84,3,4
+148,LS0048,Online,2025-08-22,17000,2,Counselling,69,89,83,4,4
+149,LS0223,In-Person,2025-01-13,53000,3,Contraceptive Methods,77,97,91,4,12
+150,LS0203,In person,2024-07-16,52500,6,Data Reporting,51,69,65,3,18
+151,LS0131,Hybrid,2025-09-11,29500,4,Community Engagement,57,74,75,3,4
+152,LS0059,Hybrid,2025-08-19,27000,4,Community Engagement,49,69,64,2,4
+153,LS0142,In-person,2024-11-24,46000,4,Counselling,77,72,79,4,13
+154,LS0137,In-person,2025-10-10,43000,3,Community Engagement,74,86,85,4,3
+155,LS0014,In-person,2025-09-30,51500,3,Data Reporting,67,89,92,5,3
+156,LS0208,Hybrid,2025-11-26,25000,2,Referral Pathways,82,98,99,5,1
+157,LS0092,Hybrid,2025-07-11,32500,5,Counselling,74,100,100,5,6
+158,LS0068,Hybrid,2025-04-10,34000,4,Community Engagement,58,74,67,3,9
+159,LS0103,In-person,2024-11-06,55500,5,Counselling,73,92,93,4,14
+160,LS0052,In-person,2025-01-27,50000,6,Contraceptive Methods,75,92,94,4,11
+161,LS0195,HYBRID,2025-04-07,27500,4,Community Engagement,81,100,95,5,9
+162,LS0008,In-person,2024-05-18,50500,5,Referral Pathways,64,85,81,4,18
+163,LS0050,Online,2025-09-24,16000,2,Data Reporting,72,77,81,4,3
+164,LS0102,Hybrid,2024-04-12,35000,4,Referral Pathways,67,99,95,5,18
+165,LS0007,In-person,2024-05-31,57500,5,Data Reporting,80,100,100,5,18
+166,LS0071,ONLINE,2025-10-06,9500,3,Data Reporting,61,67,72,3,3
+167,LS0037,Online,2024-06-07,9500,3,Referral Pathways,55,66,60,2,18
+168,LS0048,Online,2025-03-02,10000,3,Community Engagement,43,51,55,2,10
+169,LS0032,hybrid,2024-01-22,26000,2,Counselling,53,64,56,3,18
+170,LS0076,In-person,2025-04-10,41500,4,Data Reporting,57,78,81,4,9
+171,LS0221,Online,2025-07-10,17500,1,Data Reporting,56,58,64,1,6
+172,LS0178,In-person,2025-09-20,57000,6,Referral Pathways,64,84,84,3,3
+173,LS0234,Online,2025-08-16,10000,3,Counselling,86,98,94,5,5
+174,LS0060,In-person,2024-01-20,57500,7,Counselling,64,76,75,4,18
+175,LS0023,In-person,2025-08-01,44000,5,Data Reporting,65,83,80,4,5
+176,LS0042,In-person,2025-07-13,47500,5,Referral Pathways,66,87,79,4,6
+177,LS0192,In-person,2025-04-05,50000,6,Data Reporting,43,60,55,2,9
+178,LS0073,Hybrid,2024-06-18,36000,5,Community Engagement,59,67,69,3,18
+179,LS0128,Hybrid ,2025-03-01,25500,5,Contraceptive Methods,48,59,61,2,10
+180,LS0153,in-person,2024-12-30,45000,7,Community Engagement,56,73,72,3,12
+181,LS0246,In-person,2025-08-12,56000,4,Counselling,69,68,67,4,5
+182,LS0098,In-person,2024-12-30,58000,4,Referral Pathways,61,84,75,4,12
+183,LS0218,Hybrid,2024-01-24,31000,5,Contraceptive Methods,40,50,50,2,18
+184,LS0205,Hybrid,2024-02-12,27500,3,Referral Pathways,68,83,76,4,18
+185,LS0088,In-person,2025-07-12,55500,6,Contraceptive Methods,54,58,54,2,6
+186,LS0178,Hybrid ,2024-11-09,30500,3,Community Engagement,73,82,78,3,14
+187,LS0094,Hybrid,2024-05-21,40000,5,Data Reporting,46,57,50,2,18
+188,LS0233,Hybrid,2025-01-30,40000,5,Contraceptive Methods,45,55,54,2,11
+189,LS0234,Hybrid,2024-06-19,37000,5,Counselling,65,80,74,3,18
+190,LS0232,Online,2025-07-07,13000,1,Community Engagement,69,81,81,3,6
+191,LS0051,In-person,2025-10-29,47500,4,Community Engagement,64,62,68,4,2
+192,LS0242,In-person,2025-05-05,49000,3,Community Engagement,80,93,88,5,8
+193,LS0032,Online,2024-07-23,17000,2,Data Reporting,47,62,59,2,17
+194,LS0032,Hybrid,2025-03-30,35000,5,Referral Pathways,70,81,79,3,9
+195,LS0065,In-person,2024-11-25,49000,5,Counselling,69,86,88,5,13
+196,LS0091,Hybrid,2024-05-26,32500,3,Data Reporting,62,72,70,4,18
+197,LS0016,Hybrid,2024-11-25,30000,4,Community Engagement,52,59,55,2,13
+198,LS0083,ONLINE,2024-10-01,12500,3,Referral Pathways,54,68,70,2,15
+199,LS0098,Online,2024-02-19,13500,2,Data Reporting,54,53,63,2,18
+200,LS0164,In-person,2024-12-11,41500,7,Data Reporting,78,88,89,4,13
+201,LS0093,Hybrid,2024-01-14,39000,4,Contraceptive Methods,75,88,83,4,18
+202,LS0113,Online,2024-11-16,9500,2,Referral Pathways,49,58,51,2,13
+203,LS0013,Online,2025-04-07,17500,1,Community Engagement,69,73,80,3,9
+204,LS0157,Hybrid,2024-02-22,30000,5,Contraceptive Methods,61,76,73,4,18
+205,LS0059,Hybrid,2024-04-14,31000,3,Contraceptive Methods,76,100,100,5,18
+206,LS0154,Hybrid,2025-02-23,34500,4,Data Reporting,61,74,71,3,10
+207,LS0200,Hybrid,2025-01-08,30500,3,Counselling,50,69,62,3,12
+208,LS0194,Hybrid,2025-12-18,39000,5,Counselling,75,88,88,4,0
+209,LS0050,Hybrid,2025-05-17,34000,2,Data Reporting,66,86,83,3,7
+210,LS0014,In-person,2025-12-24,40500,7,Contraceptive Methods,67,85,84,4,0
+211,LS0054,Online,2024-11-21,14500,3,Counselling,44,50,56,1,13
+212,LS0206,Online,2025-10-22,14500,1,Community Engagement,72,90,85,4,2
+213,LS0201,In-person,2024-11-24,51500,6,Counselling,60,54,58,3,13
+214,LS0133,Hybrid,2024-02-23,33500,5,Data Reporting,56,87,83,3,18
+215,LS0209,Hybrid,2025-04-24,34500,4,Referral Pathways,67,75,80,3,8
+216,LS0187,Online,2025-12-23,12500,3,Contraceptive Methods,72,84,78,3,0
+217,LS0058,Online,2024-11-14,14500,3,Counselling,82,100,100,5,14
+218,LS0196,Hybrid,2025-05-12,30000,2,Community Engagement,66,70,72,3,8
+219,LS0031,In-person,2025-09-12,50000,7,Community Engagement,82,92,92,5,4
+220,LS0076,In-person,2025-05-25,53000,3,Community Engagement,71,85,91,5,7
+221,LS0033,Online,2024-12-01,11500,2,Counselling,63,75,71,3,13
+222,LS0153,In-person,2025-04-06,52000,5,Counselling,56,69,76,3,9
+223,LS0136,ONLINE,2025-08-01,14000,1,Data Reporting,54,70,70,2,5
+224,LS0182,Online,2024-01-09,12500,3,Data Reporting,48,58,50,2,18
+225,LS0131,Online,2024-04-28,15500,1,Contraceptive Methods,73,80,81,3,18
+226,LS0132,Online,2024-03-23,12500,3,Counselling,54,57,60,2,18
+227,LS0073,In-person,2024-02-19,54500,3,Referral Pathways,64,78,78,3,18
+228,LS0034,Online,2025-02-16,10000,3,Data Reporting,54,73,70,3,10
+229,LS0232,Hybrid,2024-10-19,39500,2,Contraceptive Methods,84,100,100,5,14
+230,LS0160,In-person,2025-05-25,41500,5,Contraceptive Methods,62,80,70,3,7
+231,LS0045,Online,2025-08-01,8000,3,Contraceptive Methods,85,94,92,4,5
+232,LS0199,In-person,2025-04-02,54500,7,Contraceptive Methods,66,81,85,5,9
+233,LS0093,Online,2024-07-22,13000,1,Referral Pathways,55,59,56,1,17
+234,LS0233,Hybrid,2025-08-24,38000,5,Referral Pathways,79,100,100,5,4
+235,LS0076,Hybrid,2025-08-08,37500,2,Counselling,49,58,58,2,5
+236,LS0094,Hybrid,2025-04-01,38500,4,Community Engagement,89,100,98,4,9
+237,LS0096,In-person,2024-09-24,51000,5,Data Reporting,67,78,75,4,15
+238,LS0092,Hybrid,2024-03-28,39500,5,Data Reporting,59,71,72,3,18
+239,LS0033,In-person,2024-02-08,47500,6,Counselling,72,64,58,4,18
+240,LS0059,In-person,2025-06-29,45000,6,Data Reporting,62,82,84,4,6
+241,LS0091,Hybrid,2024-11-27,29000,2,Contraceptive Methods,61,71,65,3,13
+242,LS0024,online,2024-12-18,15500,2,Data Reporting,54,61,61,1,12
+243,LS0250,In-person,2024-11-19,48000,6,Data Reporting,60,79,79,3,13
+244,LS0217,Hybrid,2025-08-21,29000,3,Contraceptive Methods,64,78,75,4,4
+245,LS0246,Online,2024-01-02,10500,3,Contraceptive Methods,56,62,67,3,18
+246,LS0137,Hybrid,2025-11-18,33500,5,Community Engagement,70,83,87,5,1
+247,LS0200,Hybrid,2025-10-15,34500,4,Counselling,69,100,100,5,3
+248,LS0180,Hybrid,2025-03-13,33500,5,Contraceptive Methods,63,71,70,3,10
+249,LS0215,In-person,2024-02-21,43500,7,Community Engagement,49,68,62,3,18
+250,LS0050,Online,2024-06-22,14000,1,Data Reporting,82,92,92,4,18
+251,LS0036,In-person,2025-05-23,48000,7,Data Reporting,71,84,89,4,7
+252,LS0204,In-person,2025-08-13,41000,5,Community Engagement,56,63,71,4,5
+253,LS0038,In-person,2025-07-31,49500,4,Contraceptive Methods,52,64,65,3,5
+254,LS0033,Hybrid,2024-06-17,27000,4,Counselling,86,100,100,4,18
+255,LS0232,Hybrid,2024-06-09,35000,4,Referral Pathways,73,82,81,4,18
+256,LS0162,hybrid,2025-02-24,26000,5,Data Reporting,82,100,100,5,10
+257,LS0105,In-person,2024-08-26,45000,3,Counselling,76,94,85,5,16
+258,LS0170,Hybrid,2024-06-23,31500,3,Data Reporting,45,56,57,2,18
+259,LS0123,In-person,2025-12-07,44500,5,Data Reporting,80,90,94,4,1
+260,LS0045,In-person,2024-02-10,54500,4,Contraceptive Methods,77,72,70,3,18
+261,LS0104,Hybrid,2025-08-23,38000,4,Community Engagement,75,90,93,5,4
+262,LS0059,In-person,2025-08-08,46000,3,Contraceptive Methods,73,94,91,4,5
+263,LS0105,Online,2025-04-11,15000,1,Contraceptive Methods,58,71,75,3,9
+264,LS0054,Hybrid ,2025-06-10,26000,2,Community Engagement,73,88,78,4,7
+265,LS0033,Hybrid,2025-10-25,35500,3,Contraceptive Methods,66,79,84,4,2
+266,LS0132,In person,2024-11-27,47500,3,Contraceptive Methods,71,83,89,4,13
+267,LS0207,In-person,2025-12-11,56500,6,Contraceptive Methods,64,81,82,4,1
+268,LS0010,In-person,2024-10-28,55000,3,Contraceptive Methods,68,67,64,4,14
+269,LS0131,In-person,2025-10-24,53500,4,Counselling,62,60,56,2,2
+270,LS0208,hybrid,2024-08-06,37000,2,Data Reporting,65,77,77,3,17
+271,LS0087,In-person,2025-07-13,46500,5,Counselling,47,60,54,2,6
+272,LS0160,In-person,2024-11-03,56000,7,Counselling,62,76,76,4,14
+273,LS0195,In-person,2025-03-05,43500,7,Contraceptive Methods,68,80,82,4,10
+274,LS0177,Hybrid,2024-03-26,35500,4,Data Reporting,81,100,100,5,18
+275,LS0057,Hybrid,2024-04-20,37500,2,Referral Pathways,61,80,81,3,18
+276,LS0108,In-person,2024-06-18,59500,5,Counselling,60,63,64,2,18
+277,LS0159,Hybrid,2024-10-23,34500,3,Data Reporting,68,81,89,4,14
+278,LS0102,In-person,2025-10-23,49500,7,Counselling,84,94,100,5,2
+279,LS0205,Hybrid,2025-05-03,37500,5,Counselling,79,88,91,4,8
+280,LS0169,hybrid,2025-06-12,36000,4,Referral Pathways,72,100,100,5,7
+281,LS0154,In-person,2024-10-23,47000,5,Data Reporting,62,57,57,3,14
+282,LS0047,In person,2024-11-17,57000,4,Community Engagement,45,55,52,3,13
+283,LS0233,Online,2025-10-12,16500,3,Data Reporting,78,85,95,4,3
+284,LS0223,HYBRID,2024-12-26,27500,5,Community Engagement,58,67,66,3,12
+285,LS0208,Online,2024-11-03,13000,1,Data Reporting,72,88,82,3,14
+286,LS0190,Hybrid,2024-08-06,29500,2,Referral Pathways,60,66,69,2,17
+287,LS0089,In-person,2025-03-18,56500,5,Data Reporting,57,72,69,4,9
+288,LS0043,In-person,2024-09-09,52000,5,Referral Pathways,69,63,59,4,16
+289,LS0011,In-person,2025-01-23,58000,6,Referral Pathways,63,56,53,3,11
+290,LS0147,Hybrid,2024-10-09,38500,4,Data Reporting,60,77,78,3,15
+291,LS0170,Online,2025-05-25,12500,3,Community Engagement,55,70,72,2,7
+292,LS0105,In-person,2024-09-12,47000,4,Data Reporting,54,55,56,3,16
+293,LS0123,Online,2025-02-18,17500,2,Referral Pathways,53,63,64,2,10
+294,LS0046,Online,2024-09-19,12500,3,Community Engagement,84,99,98,4,15
+295,LS0066,In person,2025-08-21,42000,3,Data Reporting,42,59,61,2,4
+296,LS0093,Hybrid,2024-09-30,33000,5,Referral Pathways,75,95,92,5,15
+297,LS0004,In-person,2024-09-13,43000,3,Data Reporting,66,91,85,4,16
+298,LS0182,Hybrid,2025-11-10,32000,2,Community Engagement,62,68,68,3,2
+299,LS0209,Hybrid,2024-06-24,32000,3,Referral Pathways,66,83,75,3,18
+300,LS0212,Hybrid,2024-09-11,36000,3,Data Reporting,62,74,71,2,16

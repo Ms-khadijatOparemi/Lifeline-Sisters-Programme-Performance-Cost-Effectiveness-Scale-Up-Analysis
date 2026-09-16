@@ -1,0 +1,251 @@
+sister_id,state,lga,age,experience_months,training_type,training_date,months_active, monthly_stipend ,transport_zone,status
+LS0001,Oyo,Ogbomosho North,44,4,HYBRID,05/11/2025,8," ?34,500.00 ",Urban,Active
+LS0002,Kaduna,Sabon Gari,30,10,Hybrid,12/08/2024,9," ?34,500.00 ",Semi-urban,Active
+LS0003,Kaduna,Kaduna South,35,26,Hybrid,27/02/2024,6," ?38,000.00 ",Urban,Active
+LS0004,Kano,Tarauni,27,20,In-person,27/03/2025,7," ?27,500.00 ",Urban,Active
+LS0005,Oyo,Egbeda,34,48,Hybrid,26/03/2025,10," ?32,000.00 ",Semi-urban,Active
+LS0006,Kano,Ungogo,43,14,Hybrid,16/02/2025,11," ?39,000.00 ",Urban,Inactive
+LS0007,Oyo,Ogbomosho North,43,36,In-person,29/11/2024,9," ?36,500.00 ",Rural,Active
+LS0008,Kano,Fagge,36,39,Hybrid,25/09/2025,11," ?40,000.00 ",Rural,Active
+LS0009,Lagos,Kosofe,24,29,Hybrid,16/10/2025,6," ?45,000.00 ",Urban,Active
+LS0010,Oyo,Egbeda,28,47,Hybrid,29/12/2024,11," ?33,500.00 ",Semi-urban,Active
+LS0011,Oyo,Ogbomosho North,36,11,In-person,17/01/2024,6," ?29,500.00 ",Urban,Inactive
+LS0012,Oyo,Ibadan North,44,42,Hybrid,01/06/2024,12," ?32,000.00 ",Urban,Active
+LS0013,Oyo,Ogbomosho North,30,39,In-person,06/06/2025,6," ?38,500.00 ",Urban,Active
+LS0014,Kaduna,Chikun,23,7,In-person,28/08/2025,10," ?36,000.00 ",Rural,Active
+LS0015,Kaduna,Chikun,33,27,Hybrid,30/08/2025,6," ?41,000.00 ",Rural,Active
+LS0016,Lagos,Oshodi-Isolo,30,33,In-person,24/04/2025,12," ?31,500.00 ",Urban,Inactive
+LS0017,Kano,Gwale,29,41,Online,10/04/2024,7," ?41,500.00 ",Rural,Inactive
+LS0018,Lagos,Surulere,42,22,Online,07/03/2025,8," ?35,000.00 ",Urban,Active
+LS0019,Kano,Nassarawa,43,19,Online,12/12/2024,11," ?38,000.00 ",Urban,Inactive
+LS0020,Lagos,Ikeja,42,14,Hybrid,02/02/2025,11," ?25,500.00 ",Rural,Active
+LS0021,Oyo,Ibadan North,26,31,Online,30/10/2025,8," ?38,500.00 ",Semi-urban,Active
+LS0022,Kano,Nassarawa,43,34,Online,09/01/2024,9," ?38,000.00 ",Semi-urban,Active
+LS0023,Kano,Fagge,35,30,In-person,12/09/2024,12," ?35,500.00 ",Semi-urban,Active
+LS0024,Rivers,Ikwerre,41,6,Hybrid,23/07/2025,12," ?39,000.00 ",Semi-urban,Active
+LS0025,Lagos,Alimosho,35,6,In-person,18/02/2025,11," ?34,000.00 ",Urban,Active
+LS0026,Rivers,Eleme,42,5,Hybrid,25/01/2025,12," ?40,500.00 ",Rural,Active
+LS0027,Rivers,Eleme,35,6,In-person,26/12/2025,8," ?44,500.00 ",Semi-urban,Active
+LS0028,Kaduna,Kaduna South,47,29,Online,15/08/2025,12," ?43,000.00 ",Urban,Active
+LS0029,Oyo,Ibadan South-West,39,44,Hybrid,03/11/2025,6," ?38,500.00 ",Semi-urban,Active
+LS0030,Kano,Nassarawa,39,26,In-person,11/11/2025,7," ?35,000.00 ",Urban,Active
+LS0031,Rivers,Bonny,34,13,Hybrid,23/12/2025,11," ?33,000.00 ",Urban,Active
+LS0032,Oyo,Ibadan South-West,31,42,online,26/09/2024,8," ?34,000.00 ",Semi-urban,Active
+LS0033,Kaduna,Zaria,34,34,Hybrid,27/03/2025,12," ?40,000.00 ",Urban,Active
+LS0034,Kano,Gwale,24,34,Online,13/03/2025,12," ?33,000.00 ",Semi-urban,Inactive
+LS0035,Kano,Fagge,33,7,In-person,17/09/2025,11," ?33,500.00 ",Semi-urban,Inactive
+LS0036,Lagos,Surulere,33,24,Online,08/12/2024,11," ?34,000.00 ",Semi-urban,Active
+LS0037,Kaduna,Chikun,35,47,Online,24/03/2024,9," ?29,500.00 ",Semi-urban,Inactive
+LS0038,Kaduna,Chikun,31,5,Online,11/12/2024,8," ?31,000.00 ",Semi-urban,Inactive
+LS0039,Lagos,Agege,43,40,In-person,18/01/2025,8," ?33,000.00 ",Urban,Active
+LS0040,Kano,Dala,23,47,Online,02/04/2024,9," ?33,000.00 ",Semi-urban,Inactive
+LS0041,Kaduna,Igabi,25,23,In person,02/09/2024,7," ?29,500.00 ",Urban,Active
+LS0042,Oyo,Egbeda,24,20,In-Person,25/04/2024,8," ?32,500.00 ",Rural,Active
+LS0043,Kano,Dala,26,29,in-person,26/03/2025,9," ?39,500.00 ",Urban,Inactive
+LS0044,Kaduna,Zaria,43,34,Hybrid,23/11/2025,12," ?36,000.00 ",Urban,Active
+LS0045,Kaduna,Zaria,28,16,Online,15/11/2024,11," ?37,000.00 ",Rural,Inactive
+LS0046,Kaduna,Sabon Gari,24,12,Hybrid,03/10/2025,11," ?32,500.00 ",Semi-urban,Active
+LS0047,Lagos,Kosofe,36,11,In-person,08/02/2025,6," ?34,500.00 ",Urban,Inactive
+LS0048,Lagos,Ikeja,45,15,In-person,18/04/2025,8," ?30,500.00 ",Urban,Active
+LS0049,Oyo,Egbeda,48,39,Hybrid,27/07/2024,11," ?40,000.00 ",Semi-urban,Active
+LS0050,Kaduna,Kaduna South,36,45,Online,20/11/2025,7," ?42,500.00 ",Rural,Active
+LS0051,Lagos,Agege,26,32,Hybrid,06/05/2025,6," ?42,000.00 ",Semi-urban,Active
+LS0052,Rivers,Bonny,36,5,Online,19/12/2025,6," ?29,500.00 ",Rural,Active
+LS0053,Kaduna,Kaduna South,50,21,,23/11/2024,7," ?37,000.00 ",Rural,Active
+LS0054,Kano,Gwale,35,16,In-person,26/11/2024,12," ?30,000.00 ",Urban,Inactive
+LS0055,Kano,Tarauni,31,16,In-person,15/01/2024,11," ?34,500.00 ",Rural,Active
+LS0056,Kano,Dala,34,32,HYBRID,04/06/2025,6," ?31,500.00 ",Urban,Active
+LS0057,Lagos,Eti-Osa,32,26,In-person,26/12/2025,11," ?36,000.00 ",Rural,Active
+LS0058,Lagos,Oshodi-Isolo,44,33,Hybrid,04/08/2024,6," ?37,500.00 ",Semi-urban,Active
+LS0059,Oyo,Ibadan North,40,42,Hybrid,14/11/2025,12," ?33,500.00 ",Semi-urban,Active
+LS0060,Lagos,Mushin,38,33,In-person,19/07/2024,12," ?40,500.00 ",Semi-urban,Active
+LS0061,Kaduna,Zaria,41,26,Hybrid ,18/05/2025,11," ?32,000.00 ",Urban,Active
+LS0062,Kano,Kano Municipal,41,15,Online,17/06/2024,9," ?38,000.00 ",Rural,Active
+LS0063,Kaduna,Chikun,32,31,Hybrid,19/09/2024,11," ?35,500.00 ",Semi-urban,Inactive
+LS0064,Kaduna,Zaria,34,47,Hybrid,05/12/2024,7," ?42,500.00 ",Semi-urban,Active
+LS0065,Kaduna,Kaduna North,33,43,In-person,15/02/2025,7," ?40,500.00 ",Semi-urban,Inactive
+LS0066,Kano,Gwale,46,25,Hybrid,01/06/2025,9," ?44,000.00 ",Urban,Active
+LS0067,Kano,Ungogo,35,25,Hybrid,08/09/2025,9," ?34,000.00 ",Urban,Active
+LS0068,Kano,Kano Municipal,32,4,In-person,28/12/2024,8," ?30,500.00 ",Semi-urban,Active
+LS0069,Kano,Kano Municipal,37,35,Online,11/09/2025,6," ?32,500.00 ",Semi-urban,Inactive
+LS0070,Lagos,Alimosho,34,44,Online,03/04/2024,9," ?35,500.00 ",Urban,Active
+LS0071,Lagos,Oshodi-Isolo,37,23,Hybrid,21/10/2024,8," ?39,500.00 ",Semi-urban,Active
+LS0072,Rivers,Ikwerre,42,4,Hybrid,14/11/2025,10," ?33,000.00 ",Semi-urban,Active
+LS0073,Rivers,Ikwerre,43,5,In-Person,26/11/2024,9," ?40,500.00 ",Urban,Active
+LS0074,Kano,Kano Municipal,32,35,Hybrid,29/12/2025,10," ?37,500.00 ",Rural,Active
+LS0075,Kano,Nassarawa,25,35,Hybrid,11/04/2025,7," ?45,000.00 ",Rural,Inactive
+LS0076,Kano,Fagge,32,38,Hybrid,29/12/2025,10," ?42,000.00 ",Rural,Active
+LS0077,Kaduna,Sabon Gari,39,39,Hybrid ,06/10/2024,12," ?35,500.00 ",Rural,Active
+LS0078,Lagos,Mushin,47,33,In-person,14/06/2025,9," ?36,000.00 ",Urban,Active
+LS0079,Rivers,Obio-Akpor,42,11,In-Person,25/02/2024,9," ?28,000.00 ",Rural,Active
+LS0080,Lagos,Agege,26,37,In-person,06/01/2024,6," ?28,500.00 ",Semi-urban,Active
+LS0081,Kano,Kano Municipal,30,46,Online,14/01/2025,11," ?32,000.00 ",Rural,Inactive
+LS0082,Rivers,Port Harcourt,24,13,in-person,09/04/2024,10," ?39,500.00 ",Urban,Active
+LS0083,Lagos,Ikeja,34,19,Hybrid,04/03/2025,7," ?34,000.00 ",Urban,Active
+LS0084,Lagos,Agege,50,25,In-person,28/05/2024,10," ?28,500.00 ",Semi-urban,Active
+LS0085,Oyo,Oyo East,33,38,In person,04/01/2025,11," ?45,000.00 ",Rural,Active
+LS0086,Kaduna,Zaria,24,10,Hybrid,31/07/2024,6," ?29,500.00 ",Semi-urban,Inactive
+LS0087,Oyo,Ibadan North,31,18,In-Person,07/04/2025,11," ?37,000.00 ",Semi-urban,Active
+LS0088,Kaduna,Zaria,32,33,Online,06/05/2024,11," ?32,500.00 ",Rural,Active
+LS0089,Lagos,Oshodi-Isolo,33,8,Hybrid,22/07/2025,10," ?35,500.00 ",Semi-urban,Active
+LS0090,Kaduna,Kaduna South,35,12,Hybrid,19/10/2025,9," ?34,500.00 ",Rural,Active
+LS0091,Oyo,Ibadan North,29,21,Hybrid,25/09/2025,7," ?28,500.00 ",Semi-urban,Active
+LS0092,Rivers,Bonny,44,23,Hybrid,27/06/2025,12," ?34,500.00 ",Semi-urban,Active
+LS0093,Oyo,Ibadan South-West,38,20,In person,24/08/2024,12," ?32,000.00 ",Urban,Active
+LS0094,Lagos,Alimosho,32,47,In-person,30/08/2025,11," ?36,500.00 ",Urban,Active
+LS0095,Kano,Kano Municipal,31,10,Hybrid,28/12/2024,10," ?34,000.00 ",Urban,Active
+LS0096,Lagos,Mushin,40,30,In-person,11/05/2025,12," ?39,500.00 ",Urban,Active
+LS0097,Kano,Gwale,35,40,Online,27/10/2024,8," ?42,500.00 ",Urban,Active
+LS0098,Kano,Ungogo,40,43,Online,24/07/2024,11," ?45,000.00 ",Urban,Inactive
+LS0099,Kaduna,Kaduna North,42,23,In-person,13/04/2025,10," ?36,000.00 ",Rural,Inactive
+LS0100,Kano,Kano Municipal,43,47,In-person,15/10/2025,8," ?33,500.00 ",Urban,Active
+LS0101,Rivers,Port Harcourt,32,31,In-person,29/08/2025,10," ?36,000.00 ",Semi-urban,Active
+LS0102,Lagos,Eti-Osa,35,47,Hybrid,16/03/2024,12," ?35,000.00 ",Rural,Active
+LS0103,Lagos,Oshodi-Isolo,34,19,In-person,07/01/2025,9," ?31,500.00 ",Urban,Active
+LS0104,Lagos,Kosofe,30,27,In-person,15/05/2024,9," ?41,000.00 ",Urban,Active
+LS0105,Kaduna,Zaria,31,48,in-person,26/10/2025,9," ?42,000.00 ",Semi-urban,Active
+LS0106,Kano,Ungogo,45,21,In-person,04/06/2025,9," ?32,500.00 ",Semi-urban,Inactive
+LS0107,Kano,Kano Municipal,35,4,Online,15/01/2024,10," ?32,500.00 ",Semi-urban,Active
+LS0108,Lagos,Mushin,46,24,Hybrid,21/05/2025,6," ?42,000.00 ",Urban,Active
+LS0109,Kano,Ungogo,33,4,Hybrid,17/08/2024,8," ?37,000.00 ",Semi-urban,Active
+LS0110,Rivers,Ikwerre,44,24,Hybrid,15/09/2025,9," ?36,000.00 ",Urban,Active
+LS0111,Oyo,Egbeda,44,22,Hybrid,15/05/2025,8," ?30,500.00 ",Semi-urban,Inactive
+LS0112,Kaduna,Igabi,28,16,In-person,30/12/2025,8," ?37,500.00 ",Rural,Active
+LS0113,Rivers,Obio-Akpor,39,28,Hybrid,18/12/2025,6," ?33,000.00 ",Semi-urban,Active
+LS0114,Kaduna,Chikun,40,24,Online,07/07/2025,7," ?43,500.00 ",Rural,Active
+LS0115,Kano,Ungogo,38,30,Hybrid,30/11/2025,7," ?43,500.00 ",Rural,Active
+LS0116,Oyo,Ibadan North,33,29,In-person,06/12/2025,8," ?35,000.00 ",Urban,Inactive
+LS0117,Kaduna,Kaduna South,27,18,In-person,18/06/2025,6," ?34,500.00 ",Rural,Active
+LS0118,Rivers,Ikwerre,31,30,In-person,01/10/2024,7," ?39,000.00 ",Rural,Active
+LS0119,Lagos,Mushin,24,15,In person,21/12/2025,6," ?28,000.00 ",Semi-urban,Inactive
+LS0120,Oyo,Ogbomosho North,38,44,online,08/04/2025,11," ?39,500.00 ",Urban,Inactive
+LS0121,Lagos,Surulere,27,48,in-person,14/07/2024,8," ?34,500.00 ",Semi-urban,Inactive
+LS0122,Kaduna,Sabon Gari,31,28,Hybrid,15/09/2024,7," ?33,000.00 ",Urban,Inactive
+LS0123,Kano,Tarauni,28,20,Hybrid ,29/04/2024,7," ?29,500.00 ",Urban,Active
+LS0124,Kano,Nassarawa,41,42,Hybrid ,12/10/2024,9," ?28,500.00 ",Rural,Active
+LS0125,Kano,Tarauni,43,16,online,31/05/2024,9," ?38,500.00 ",Urban,Active
+LS0126,Kaduna,Chikun,29,11,Hybrid,19/04/2025,11," ?28,000.00 ",Rural,Active
+LS0127,Rivers,Port Harcourt,33,35,In-person,26/06/2024,12," ?29,500.00 ",Semi-urban,Inactive
+LS0128,Kano,Kano Municipal,23,11,Online,15/05/2024,8," ?38,500.00 ",Rural,Active
+LS0129,Kano,Nassarawa,30,8,In-person,21/12/2025,9," ?42,000.00 ",Urban,Active
+LS0130,Lagos,Kosofe,35,45,Hybrid,25/03/2025,10," ?41,000.00 ",Rural,Active
+LS0131,Kano,Dala,33,13,Online,08/09/2025,12," ?27,000.00 ",Urban,Active
+LS0132,Kano,Nassarawa,39,28,In-person,01/04/2024,6," ?38,000.00 ",Urban,Active
+LS0133,Oyo,Oyo East,31,23,ONLINE,15/12/2025,8," ?35,500.00 ",Rural,Active
+LS0134,Rivers,Eleme,32,21,in-person,16/09/2024,9," ?30,500.00 ",Urban,Active
+LS0135,Kano,Fagge,41,3,Online,18/12/2025,10," ?38,000.00 ",Semi-urban,Active
+LS0136,Kano,Kano Municipal,29,28,Hybrid,19/01/2024,12," ?30,500.00 ",Urban,Inactive
+LS0137,Kano,Nassarawa,29,18,Online,29/11/2025,9," ?35,500.00 ",Rural,Inactive
+LS0138,Lagos,Alimosho,31,24,In-person,07/11/2024,12," ?33,500.00 ",Urban,Inactive
+LS0139,Oyo,Oyo East,45,9,Online,21/12/2024,7," ?38,500.00 ",Urban,Active
+LS0140,Kano,Nassarawa,52,42,In-person,05/03/2025,9," ?31,500.00 ",Semi-urban,Active
+LS0141,Lagos,Agege,26,16,Hybrid ,27/05/2025,9," ?36,000.00 ",Urban,Active
+LS0142,Lagos,Ikeja,36,5,Online,16/08/2024,7," ?34,000.00 ",Semi-urban,Active
+LS0143,Lagos,Surulere,32,30,Hybrid,04/09/2024,9," ?45,000.00 ",Urban,Active
+LS0144,Lagos,Eti-Osa,24,45,In-person,04/06/2025,6," ?45,000.00 ",Urban,Active
+LS0145,Lagos,Surulere,42,24,Hybrid,10/10/2024,11," ?38,000.00 ",Urban,Active
+LS0146,Kaduna,Kaduna South,27,47,In-person,28/05/2024,11," ?37,000.00 ",Urban,Active
+LS0147,Rivers,Ikwerre,33,3,Hybrid,08/01/2025,11," ?28,500.00 ",Rural,Active
+LS0148,Kaduna,Zaria,37,18,In-person,27/02/2024,7," ?36,500.00 ",Semi-urban,Active
+LS0149,Rivers,Port Harcourt,32,29,In-person,28/02/2024,9," ?37,500.00 ",Semi-urban,Active
+LS0150,Rivers,Ikwerre,23,25,In person,29/09/2025,7," ?42,000.00 ",Rural,Active
+LS0151,Kaduna,Zaria,34,18,hybrid,08/07/2025,12," ?39,000.00 ",Semi-urban,Active
+LS0152,Rivers,Bonny,32,15,Hybrid,14/02/2025,12," ?29,000.00 ",Semi-urban,Inactive
+LS0153,Kano,Tarauni,32,15,Hybrid,08/06/2024,8," ?41,500.00 ",Urban,Active
+LS0154,Rivers,Obio-Akpor,38,36,In-person,26/05/2025,10," ?39,500.00 ",Urban,Inactive
+LS0155,Kano,Dala,35,27,In-person,19/05/2024,12," ?33,000.00 ",Semi-urban,Inactive
+LS0156,Lagos,Ikeja,39,28,Hybrid,21/10/2025,6," ?30,000.00 ",Urban,Active
+LS0157,Lagos,Eti-Osa,29,30,In-person,03/12/2025,8," ?42,000.00 ",Urban,Inactive
+LS0158,Oyo,Ibadan North,36,13,Online,21/06/2025,10," ?39,500.00 ",Urban,Active
+LS0159,Oyo,Egbeda,45,11,In-person,14/10/2024,7," ?29,500.00 ",Semi-urban,Active
+LS0160,Rivers,Bonny,39,22,Hybrid,29/07/2024,9," ?34,500.00 ",Semi-urban,Active
+LS0161,Lagos,Ikeja,42,31,Hybrid,17/03/2024,9," ?42,500.00 ",Urban,Active
+LS0162,Lagos,Ikeja,39,12,In-person,07/07/2025,9," ?27,000.00 ",Semi-urban,Active
+LS0163,Kaduna,Igabi,37,45,Hybrid,23/12/2024,8," ?34,000.00 ",Rural,Inactive
+LS0164,Kaduna,Kaduna South,41,33,Online,18/04/2024,10," ?34,000.00 ",Semi-urban,Active
+LS0165,Lagos,Surulere,42,6,On-line,30/09/2025,11," ?30,000.00 ",Semi-urban,Active
+LS0166,Kaduna,Kaduna South,32,4,Hybrid,11/11/2025,8," ?34,000.00 ",Rural,Active
+LS0167,Kaduna,Kaduna South,46,16,In-person,10/04/2025,7," ?28,500.00 ",Semi-urban,Active
+LS0168,Oyo,Ogbomosho North,41,37,In-person,06/08/2025,9," ?44,000.00 ",Rural,Inactive
+LS0169,Kano,Ungogo,31,48,In-person,14/10/2025,10," ?34,000.00 ",Urban,Active
+LS0170,Rivers,Obio-Akpor,44,39,In-person,02/05/2025,6," ?31,500.00 ",Rural,Active
+LS0171,Kaduna,Igabi,43,14,Hybrid,04/09/2024,8," ?35,000.00 ",Rural,Inactive
+LS0172,Kaduna,Sabon Gari,28,37,Online,19/11/2025,12," ?35,500.00 ",Rural,Active
+LS0173,Kano,Dala,33,12,In-person,09/05/2024,11," ?33,500.00 ",Semi-urban,Inactive
+LS0174,Kaduna,Zaria,29,10,Hybrid,18/01/2025,12," ?33,500.00 ",Rural,Active
+LS0175,Kaduna,Kaduna North,35,6,In-person,22/05/2025,9," ?37,000.00 ",Semi-urban,Inactive
+LS0176,Lagos,Oshodi-Isolo,31,45,In-person,01/04/2024,9," ?38,500.00 ",Semi-urban,Active
+LS0177,Oyo,Ibadan North,41,45,Online,17/06/2024,12," ?35,500.00 ",Rural,Active
+LS0178,Kaduna,Zaria,23,47,Online,09/07/2025,9," ?30,500.00 ",Urban,Active
+LS0179,Lagos,Kosofe,31,37,In-person,01/04/2024,6," ?38,500.00 ",Semi-urban,Active
+LS0180,Lagos,Ikeja,35,6,In-person,13/12/2025,9," ?35,500.00 ",Urban,Active
+LS0181,Kano,Fagge,38,25,Hybrid,30/08/2025,9," ?33,500.00 ",Rural,Inactive
+LS0182,Lagos,Surulere,31,39,Hybrid,29/05/2025,8," ?29,500.00 ",Rural,Active
+LS0183,Kano,Dala,36,6,Online,10/02/2024,12," ?34,000.00 ",Rural,Active
+LS0184,Rivers,Ikwerre,35,26,In-person,28/05/2024,6," ?31,000.00 ",Rural,Active
+LS0185,Lagos,Surulere,29,14,In-person,09/01/2025,7," ?35,500.00 ",Semi-urban,Active
+LS0186,Oyo,Ogbomosho North,27,24,Hybrid,23/03/2025,8," ?36,500.00 ",Rural,Active
+LS0187,Kaduna,Igabi,30,15,In-person,31/08/2025,7," ?32,500.00 ",Semi-urban,Active
+LS0188,Lagos,Mushin,40,7,Online,22/09/2025,10," ?30,000.00 ",Urban,Active
+LS0189,Oyo,Oyo East,24,12,In-person,20/06/2025,12," ?38,500.00 ",Urban,Active
+LS0190,Oyo,Ibadan South-West,34,7,In-person,17/08/2025,12," ?38,500.00 ",Semi-urban,Active
+LS0191,Rivers,Ikwerre,39,9,Online,31/05/2025,9," ?32,000.00 ",Rural,Active
+LS0192,Rivers,Bonny,41,8,In-person,08/06/2024,12," ?43,500.00 ",Semi-urban,Active
+LS0193,Kaduna,Zaria,32,40,In-person,02/02/2025,10," ?35,000.00 ",Rural,Active
+LS0194,Oyo,Egbeda,26,23,Hybrid,23/04/2024,7," ?26,000.00 ",Semi-urban,Active
+LS0195,Kaduna,Chikun,34,3,In-person,17/08/2024,7," ?36,000.00 ",Rural,Inactive
+LS0196,Kano,Kano Municipal,35,32,In-Person,12/08/2025,9," ?32,000.00 ",Urban,Active
+LS0197,Kaduna,Kaduna South,27,33,Hybrid,14/12/2024,12," ?34,000.00 ",Rural,Active
+LS0198,Kaduna,Kaduna South,34,7,In-person,23/07/2024,7," ?31,500.00 ",Semi-urban,Inactive
+LS0199,Kano,Ungogo,32,14,In-person,19/06/2025,8," ?30,500.00 ",Rural,Active
+LS0200,Lagos,Alimosho,34,44,Hybrid,02/06/2024,8," ?39,500.00 ",Urban,Active
+LS0201,Kaduna,Chikun,39,23,Online,24/06/2024,10," ?36,000.00 ",Urban,Active
+LS0202,Kano,Kano Municipal,27,46,Online,04/01/2025,7," ?36,500.00 ",Semi-urban,Active
+LS0203,Lagos,Agege,29,44,Online,31/10/2024,9," ?34,500.00 ",Urban,Active
+LS0204,Kano,Tarauni,48,38,Hybrid,14/10/2025,12," ?31,500.00 ",Urban,Active
+LS0205,Lagos,Mushin,30,25,Hybrid,09/02/2025,9," ?35,000.00 ",Urban,Active
+LS0206,Kano,Nassarawa,45,48,In-person,15/08/2025,12," ?42,000.00 ",Rural,Inactive
+LS0207,Rivers,Bonny,31,6,Hybrid,22/05/2024,7," ?34,500.00 ",Urban,Active
+LS0208,Lagos,Mushin,42,12,Online,31/08/2024,9," ?34,000.00 ",Rural,Active
+LS0209,Kano,Kano Municipal,41,25,HYBRID,12/02/2025,10," ?40,500.00 ",Urban,Active
+LS0210,Oyo,Ibadan North,27,14,Hybrid,13/09/2024,12," ?30,000.00 ",Rural,Active
+LS0211,Oyo,Oyo East,48,25,Hybrid ,30/01/2025,8," ?39,000.00 ",Urban,Active
+LS0212,Kano,Kano Municipal,32,26,Online,25/10/2025,12," ?38,000.00 ",Semi-urban,Active
+LS0213,Kaduna,Kaduna North,36,14,online,12/01/2025,7," ?41,000.00 ",Semi-urban,Inactive
+LS0214,Lagos,Agege,33,30,In-person,26/08/2025,10," ?36,500.00 ",Semi-urban,Active
+LS0215,Oyo,Ibadan South-West,30,22,Online,12/08/2024,6," ?40,500.00 ",Urban,Active
+LS0216,Lagos,Mushin,35,47,Online,11/02/2024,10," ?40,500.00 ",Rural,Active
+LS0217,Oyo,Ibadan North,29,12,Online,24/01/2025,12," ?27,000.00 ",Urban,Active
+LS0218,Lagos,Agege,33,24,Hybrid,10/08/2024,11," ?32,500.00 ",Rural,Active
+LS0219,Kano,Fagge,35,11,Online,18/06/2024,10," ?44,000.00 ",Semi-urban,Inactive
+LS0220,Oyo,Ibadan South-West,43,32,Hybrid,22/07/2024,12," ?35,000.00 ",Semi-urban,Active
+LS0221,Kaduna,Kaduna North,28,38,In-person,15/05/2024,10," ?32,000.00 ",Rural,Inactive
+LS0222,Lagos,Alimosho,31,46,In-person,27/03/2024,7," ?34,000.00 ",Urban,Active
+LS0223,Lagos,Agege,36,25,Online,19/01/2025,6," ?31,500.00 ",Urban,Active
+LS0224,Lagos,Ikeja,30,17,Hybrid ,29/01/2024,10," ?30,500.00 ",Urban,Active
+LS0225,Oyo,Ibadan North,39,26,online,25/03/2025,12," ?42,500.00 ",Rural,Active
+LS0226,Kaduna,Chikun,35,22,Hybrid,01/08/2024,6," ?31,000.00 ",Semi-urban,Active
+LS0227,Lagos,Ikeja,29,45,Online,20/06/2025,9," ?45,000.00 ",Urban,Inactive
+LS0228,Rivers,Eleme,35,10,Online,16/12/2024,9," ?35,500.00 ",Semi-urban,Inactive
+LS0229,Rivers,Eleme,39,30,,16/11/2024,7," ?38,000.00 ",Semi-urban,Inactive
+LS0230,Kano,Gwale,34,16,Hybrid,06/10/2024,6," ?38,500.00 ",Urban,Active
+LS0231,Oyo,Ibadan South-West,28,46,ONLINE,22/02/2025,11," ?29,500.00 ",Rural,Active
+LS0232,Rivers,Eleme,30,8,Hybrid ,17/12/2025,6," ?31,500.00 ",Semi-urban,Active
+LS0233,Oyo,Ibadan South-West,31,17,Online,02/02/2025,12," ?30,500.00 ",Semi-urban,Inactive
+LS0234,Lagos,Agege,36,8,ONLINE,31/05/2024,6," ?36,500.00 ",Semi-urban,Active
+LS0235,Lagos,Oshodi-Isolo,37,27,In-person,27/12/2024,6," ?41,000.00 ",Urban,Active
+LS0236,Rivers,Ikwerre,31,41,In-person,28/04/2025,11," ?36,500.00 ",Semi-urban,Active
+LS0237,Oyo,Oyo East,30,48,In-person,14/04/2025,6," ?39,500.00 ",Semi-urban,Active
+LS0238,Kano,Nassarawa,34,39,In-person,05/09/2024,6," ?38,000.00 ",Semi-urban,Active
+LS0239,Rivers,Eleme,31,25,,28/12/2024,11," ?37,000.00 ",Semi-urban,Active
+LS0240,Kano,Nassarawa,48,14,Hybrid,03/07/2025,9," ?30,500.00 ",Semi-urban,Active
+LS0241,Lagos,Oshodi-Isolo,36,29,In-person,11/12/2025,7," ?31,000.00 ",Urban,Active
+LS0242,Lagos,Eti-Osa,33,23,Hybrid,02/11/2025,10," ?30,500.00 ",Urban,Active
+LS0243,Rivers,Eleme,46,9,Hybrid,04/09/2025,9," ?37,000.00 ",Semi-urban,Active
+LS0244,Lagos,Mushin,26,42,Hybrid,03/08/2025,9," ?35,000.00 ",Urban,Active
+LS0245,Kaduna,Zaria,29,13,In-person,18/07/2025,12," ?41,000.00 ",Rural,Active
+LS0246,Kaduna,Igabi,32,34,Hybrid,30/11/2025,11," ?34,000.00 ",Semi-urban,Active
+LS0247,Kaduna,Zaria,45,42,Online,06/01/2025,12," ?42,000.00 ",Semi-urban,Active
+LS0248,Oyo,Ibadan South-West,33,44,Hybrid ,04/03/2024,10," ?30,500.00 ",Urban,Active
+LS0249,Kaduna,Igabi,39,7,In-person,23/01/2025,6," ?32,000.00 ",Rural,Inactive
+LS0250,Kaduna,Kaduna North,35,12,In-person,03/07/2025,7," ?30,500.00 ",Urban,Active
