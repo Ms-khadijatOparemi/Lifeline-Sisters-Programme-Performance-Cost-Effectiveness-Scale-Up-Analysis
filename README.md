@@ -1,7 +1,7 @@
-# Lifeline Sisters: Programme Performance, Cost-Effectiveness & Scale-Up Analysis
+# Lifeline Health Initiative: Programme Performance, Cost-Effectiveness & Scale-Up Analysis
 
 # Project Overview 
-The Lifeline Sisters: Programme Performance, Cost-Effectiveness &amp; Scale-Up Analysis project examines the performance and operational efficiency of a fictional community-based sexual and reproductive health programme in Nigeria.
+The Lifeline Health Initiative: Programme Performance, Cost-Effectiveness &amp; Scale-Up Analysis project examines the performance and operational efficiency of a fictional community-based sexual and reproductive health programme in Nigeria.
 
 The programme model involves trained women, referred to as Lifeline Sisters, providing contraceptive counselling, information, referrals and selected contraceptive services within their communities.
 
