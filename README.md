@@ -49,3 +49,72 @@ What assumptions and uncertainties materially affect the cost-effectiveness esti
 If ₦50 million were available for expansion, where and how should it be allocated?
 
 The analysis is intended to distinguish between observed programme data, modelled outcomes and assumptions, rather than presenting estimates as directly observed facts.
+
+# Current project Status
+At the point of this documentation, the following stages have been completed:
+
+Project questions defined | Completed
+
+
+
+Dataset inventory | Completed
+
+
+
+Dataset grain identified | Completed
+
+
+
+Raw data inspection | Completed
+
+
+
+Data-quality assessment | Completed
+
+
+
+Missing-value review | Completed
+
+
+
+Duplicate assessment  | Completed
+
+
+
+Outlier screening  | Completed
+
+
+
+Data cleaning  | Completed
+
+
+
+Clean analytical workbook  | Completed
+
+
+
+Dataset relationships/data model  | Completed
+
+
+
+Exploratory Data Analysis  | In progress
+
+
+
+Cost-effectiveness modelling  | Not yet started
+
+
+
+Scenario analysis | Not yet started
+
+
+
+Scale-up recommendation | Not yet started
+
+
+
+Dashboard | Not yet started
+
+
+
+Executive decision memo | Not yet Current
